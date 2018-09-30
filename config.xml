@@ -9,5 +9,5 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <gap:plugin name="cordova-plugin-vibration" />
+    <plugin name="cordova-plugin-vibration" source="pgb" />
 </widget>
