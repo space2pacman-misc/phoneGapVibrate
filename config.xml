@@ -8,6 +8,5 @@
         PhoneGap Team
     </author>
     <content src="index.html" />
-    <plugin name="org.apache.cordova.vibration" spec="0.3.0" source="pgb" />
     <access origin="*" />
 </widget>
