@@ -10,3 +10,4 @@
     <content src="index.html" />
     <access origin="*" />
 </widget>
+<plugin name="org.apache.cordova.vibration" spec="0.3.0" source="pgb" />
